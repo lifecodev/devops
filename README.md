@@ -1,3 +1,3 @@
 # devops
 
-some text for commit
+some some text for commit
